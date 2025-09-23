@@ -1,0 +1,19 @@
+version: 2
+
+seeds:
+  - name: FTT_customer_info
+    config:
+      quote_columns: true
+      column_types:
+        Index: number
+        CustomerId: varchar
+        FirstName: varchar
+        LastName: varchar
+        Company: varchar
+        City: varchar
+        Country: varchar
+        Phone1: varchar
+        Phone2: varchar
+        Email: varchar
+        SubscriptionDate: timestamp_ltz
+        Website: varchar
