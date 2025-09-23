@@ -1,0 +1,8 @@
+
+sources:
+  - name: s1
+    database: db_sales
+    schema: sch_sample
+    tables:
+      - name: employees
+      - name: tbl_customer
