@@ -6,3 +6,7 @@ sources:
     tables:
       - name: employees
       - name: tbl_customer
+      - name: customers
+      - name: orders
+      - name: payments
+      - name: tbl_ticket_info
