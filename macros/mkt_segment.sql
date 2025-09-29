@@ -3,3 +3,4 @@
     when {{column_name}} in('AUTOMOBILE','MACHINERY') then 'Machine_related'
     end
 {% endmacro %}
+
